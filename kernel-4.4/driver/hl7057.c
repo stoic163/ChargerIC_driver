@@ -935,4 +935,4 @@ module_init(hl7057_init);
 module_exit(hl7057_exit);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("I2C hl7057 Driver");
-MODULE_AUTHOR("Jason Yuan@stoic163@163.com>");
+MODULE_AUTHOR("Jason Yuan<stoic163@163.com>");
